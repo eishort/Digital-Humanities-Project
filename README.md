@@ -1,4 +1,5 @@
 # Digital-Humanities-Project
+Author = Evie Short
 
 ## Project description:
 This project is my final Digital Humanities project and it compares the journeys of Odysseus and Aeneas in their respective texts using QGIS mapping technologies.
@@ -15,5 +16,3 @@ This repository includes: the final QGIS project, the geopackage file containing
 ## Data source:
 The following data sources are used in this project, and are the sources of all of my georeferenced data:
 https://topostext.org/work/3 and https://topostext.org/work/245
-
-Author = Evie Short
